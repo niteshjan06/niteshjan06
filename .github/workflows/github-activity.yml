@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,14 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/github-activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: niteshjan06
-          template: classic
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+      - name: Generate activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_activity.py
+
+      - name: Commit updated activity card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-activity.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update GitHub activity"
+            git push
+          fi
