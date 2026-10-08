@@ -108,10 +108,10 @@ AWS • Cloud Fundamentals
 
 ---
 
-## ⚡ GitHub Activity
+
 
 <p align="center">
-  <img src="./assets/github-activity.svg" alt="GitHub Activity" width="100%">
+<img src="https://raw.githubusercontent.com/niteshjan06/niteshjan06/main/assets/github-activity.svg" alt="GitHub Activity" width="100%">
 </p>
 
 ---
