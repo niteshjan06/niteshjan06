@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://codolio.com/profile/niteshjan06">
-    <img src="https://img.shields.io/badge/Codolio-Profile-111827?style=flat-square" />
+    <img src="https://img.shields.io/badge/Codolio-111827?style=flat-square&logo=codio&logoColor=white" />
   </a>
 </p>
 
@@ -21,53 +21,104 @@
 
 ## About Me
 
-I'm a Computer Science Engineering student at **Parul University**, focused on developing strong foundations in software engineering, problem solving, and cloud technologies.
+I'm a Computer Science Engineering student at **Parul University**, focused on building strong foundations in software engineering, problem solving, and cloud technologies.
 
-My primary focus areas are:
+My current focus is on:
 
 - Data Structures & Algorithms using **C++**
-- **Java** and core programming
-- Web development using **HTML, CSS & JavaScript**
+- **Java** and core programming concepts
+- Web development with **HTML, CSS & JavaScript**
 - **AWS Cloud**
 - Git & GitHub
-- Building practical projects and improving problem-solving skills
+- Building practical projects and continuously improving my problem-solving skills
 
-I prefer learning through consistent practice, building projects, and understanding the fundamentals behind the technologies I use.
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
-
-### Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-### Tools & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-</p>
+I prefer learning through consistent practice, building things, and understanding the fundamentals behind the technologies I use.
 
 ---
 
-## Problem Solving
+## 🛠️ Technology Stack
+
+<table>
+<tr>
+<td align="center" width="180"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,java" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-C++-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td align="center">
+
+**Data Structures & Algorithms**
+
+C++ • Problem Solving
+
+</td>
+
+<td align="center">
+
+**Software Engineering**
+
+Web Dev • Core CS
+
+</td>
+
+<td align="center">
+
+**Cloud**
+
+AWS • Cloud Fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="./assets/github-activity.svg" alt="GitHub Activity" width="100%">
+</p>
+
+---
+
+## 💻 Problem Solving
 
 I actively practice Data Structures & Algorithms to improve algorithmic thinking, problem decomposition, and complexity analysis.
-
-### Highlights
 
 - **500+ DSA problems** solved across LeetCode and GeeksforGeeks
 - **5-Star Problem Solving** rating on HackerRank
@@ -75,16 +126,33 @@ I actively practice Data Structures & Algorithms to improve algorithmic thinking
 
 ### Coding Profiles
 
-| Platform | Profile |
-|---|---|
-| LeetCode | [niteshjan06](https://leetcode.com/u/niteshjan06/) |
-| GeeksforGeeks | [niteshjan06](https://www.geeksforgeeks.org/user/niteshjan06/) |
-| HackerRank | [Nitesh Jangra](https://www.hackerrank.com/) |
-| Codolio | [niteshjan06](https://codolio.com/profile/niteshjan06) |
+<p align="left">
+  <a href="https://leetcode.com/u/niteshjan06/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/niteshjan06/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://codolio.com/profile/niteshjan06">
+    <img src="https://img.shields.io/badge/Codolio-111827?style=flat-square" />
+  </a>
+</p>
 
 ---
 
-## Certifications
+## 🏆 Achievements
+
+- Achieved **5-Star rating in Problem Solving on HackerRank**
+- Solved **500+ Data Structures & Algorithms problems** across LeetCode and GeeksforGeeks
+- Earned **AWS Certified AI Practitioner**
+- Earned **AWS Certified Cloud Practitioner**
+
+---
+
+## 📜 Certifications
 
 ### AWS Certified AI Practitioner
 
@@ -104,51 +172,64 @@ I actively practice Data Structures & Algorithms to improve algorithmic thinking
 
 ### GeeksforGeeks C++ Programming – Self Paced
 
-[View Certificate](#)
+Completed the GeeksforGeeks C++ Programming Self-Paced course.
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Personal Portfolio Website
 
-A personal portfolio website designed to showcase my technical skills, education, certifications, achievements, and projects.
+A personal portfolio website created to showcase my technical skills, education, achievements, certifications, and projects.
 
-**Technologies:** HTML, CSS, Git, GitHub Pages
+**Tech Stack**
 
-**Live Website:**  
-[https://niteshjan06.github.io/nitesh-portfolio/](https://niteshjan06.github.io/nitesh-portfolio/)
+`HTML` `CSS` `Git` `GitHub Pages`
 
-**Source Code:**  
-[GitHub Repository](https://github.com/niteshjan06/nitesh-portfolio)
+**Live Website**
+
+[Visit Portfolio](https://niteshjan06.github.io/nitesh-portfolio/)
+
+**Source Code**
+
+[View Repository](https://github.com/niteshjan06/nitesh-portfolio)
 
 ---
 
-## Education
+## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**  
+**B.Tech — Computer Science & Engineering**
+
 Parul University, Vadodara  
 2025 – 2029
 
-Currently focused on:
-
-- Data Structures & Algorithms
-- Programming
-- Software Development
-- Web Technologies
-- Cloud Computing
+Focused on programming, Data Structures & Algorithms, software development, web technologies, and cloud computing.
 
 ---
 
-## Currently Learning
+## 🔗 Connect
 
-```text
-Data Structures & Algorithms
-            ↓
-        C++ / Java
-            ↓
-   Software Engineering
-            ↓
-    Web Development
-            ↓
-      AWS & Cloud
+<p align="center">
+  <a href="https://github.com/niteshjan06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nitesh-jangra-0b7164371">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://niteshjan06.github.io/nitesh-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/niteshjan06">
+    <img src="https://img.shields.io/badge/Codolio-111827?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:niteshjan06@gmail.com">niteshjan06@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>
