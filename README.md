@@ -108,14 +108,6 @@ AWS • Cloud Fundamentals
 
 ---
 
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/niteshjan06/niteshjan06/main/assets/github-activity.svg" alt="GitHub Activity" width="100%">
-</p>
-
----
-
 ## 💻 Problem Solving
 
 I actively practice Data Structures & Algorithms to improve algorithmic thinking, problem decomposition, and complexity analysis.
